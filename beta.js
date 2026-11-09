@@ -1,6 +1,6 @@
 // Enable only after the closed track and opt-in URL have been verified live.
 // A click on this page never counts as a Google Play enrollment.
-const CLOSED_BETA_AVAILABLE = false;
+const CLOSED_BETA_AVAILABLE = true;
 if (CLOSED_BETA_AVAILABLE) {
   const links = {
     optin: 'https://play.google.com/apps/testing/ar.com.truquillo.truquillo',
