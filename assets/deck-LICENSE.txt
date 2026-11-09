@@ -1,0 +1,26 @@
+CURRENT DECK — TRADITIONAL PHYSICAL SPANISH CARDS
+
+Photographs: Cantabrucu, Wikimedia Commons (2020).
+Artwork credited by the source to Augusto Rius (1889) for Heraclio Fournier.
+License: Creative Commons Attribution-ShareAlike 4.0 International.
+https://creativecommons.org/licenses/by-sa/4.0/
+
+Source collection:
+https://commons.wikimedia.org/wiki/Category:Castilian_pattern
+Individual original URLs and attribution: design/classic-source/manifest.json.
+Example: https://commons.wikimedia.org/wiki/File:Heraclio_Fournier_12_Espadas.jpg
+
+Truquillo adaptation: photograph rectification, crop, paper white normalization,
+sampling the original photograph at 1080 x 1664 PNG with gentle print sharpening.
+The printed artwork is not redrawn or generated.
+Adapted face assets remain CC BY-SA 4.0. Source photographs and reproducible
+processing script: design/classic-source and scripts/prepare-classic-deck.py.
+No endorsement by the photographer or card manufacturer is implied.
+The current green-and-gold back is an original Truquillo vector in design/deck/back-club.svg.
+Reproduction: node scripts/prepare-club-back.cjs. The earlier back.svg is retained as history.
+
+HISTORICAL DECKS (not the current faces):
+Earlier prototype: Basquetteur, vectorized by gjenkins20, CC BY-SA 3.0.
+https://github.com/gjenkins20/spanish-playing-cards-svg
+https://creativecommons.org/licenses/by-sa/3.0/
+Intermediate rejected prototype: original simplified vectors in design/deck.
